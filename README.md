@@ -1,3 +1,5 @@
+![Alt Text](images/QuantumFrabric_Banner.png)
+
 # QuantumFabric
 An FPGA-Accelerated Quantum Circuit Simulator
 
