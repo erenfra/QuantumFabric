@@ -1,8 +1,5 @@
 ![Alt Text](images/QuantumFrabric_Banner.png)
 
-# QuantumFabric
-An FPGA-Accelerated Quantum Circuit Simulator
-
 
 > *Documenting the journey of learning FPGA development while building a hardware-accelerated quantum circuit simulator from the ground up.*
 
