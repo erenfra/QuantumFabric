@@ -78,13 +78,13 @@ Instead of following isolated tutorials, I wanted to learn by building a complet
 ## Software Stack
 
 * Quartus Prime
-* SystemVerilog
+* Verilog
 * Python
 * PySide6
 * GitHub
 
 ---
-
+<!--
 ## Repository Structure
 
 ```text
@@ -110,7 +110,7 @@ gui/
 ```
 
 ---
-
+-->
 ## Engineering Philosophy
 
 This project follows a few simple principles:
