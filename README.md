@@ -81,7 +81,7 @@ Instead of following isolated tutorials, I wanted to learn by building a complet
 * SystemVerilog
 * Python
 * PySide6
-* Git
+* GitHub
 
 ---
 
