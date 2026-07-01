@@ -61,6 +61,12 @@ Instead of following isolated tutorials, I wanted to learn by building a complet
 
 ---
 
+## User Interface Concept
+
+![Alt Text](images/QuantumFrabric_GUI.png)
+
+---
+
 ## Software Stack
 
 * Quartus Prime
