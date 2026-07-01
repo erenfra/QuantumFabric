@@ -71,7 +71,7 @@ Instead of following isolated tutorials, I wanted to learn by building a complet
 <!--
 ## User Interface Concept
 
-![Alt Text](images/Quantum_Fabric_GUI.png)
+![Alt Text](images/ConceptUI.png)
 
 ---
 -->
