@@ -68,13 +68,13 @@ Instead of following isolated tutorials, I wanted to learn by building a complet
 <img src="images/DE10-Lite.png" alt="Description" width="200" height="200"/>
 
 ---
-
+<!--
 ## User Interface Concept
 
 ![Alt Text](images/Quantum_Fabric_GUI.png)
 
 ---
-
+-->
 ## Software Stack
 
 * Quartus Prime
