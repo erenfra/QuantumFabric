@@ -58,7 +58,7 @@ Instead of following isolated tutorials, I wanted to learn by building a complet
 
 * Intel (Altera) MAX 10 FPGA
 * Terasic DE10-Lite Development Board
-<img src="images/DE10-Lite.png" alt="Description" width="100" height="100"/>
+<img src="images/DE10-Lite.png" alt="Description" width="125" height="125"/>
 
 ---
 
