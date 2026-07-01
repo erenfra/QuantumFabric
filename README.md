@@ -54,6 +54,12 @@ Instead of following isolated tutorials, I wanted to learn by building a complet
 
 ---
 
+## Project Phases
+
+![Alt Text](images/Quantum_Fabric_Phases_Horizontal.png)
+
+---
+
 ## Hardware Platform
 
 * Intel (Altera) MAX 10 FPGA
