@@ -68,13 +68,13 @@ Instead of following isolated tutorials, I wanted to learn by building a complet
 <img src="images/DE10-Lite.png" alt="Description" width="200" height="200"/>
 
 ---
-<!--
+
 ## User Interface Concept
 
 ![Alt Text](images/ConceptUI.png)
 
 ---
--->
+
 ## Software Stack
 
 * Quartus Prime
@@ -133,6 +133,7 @@ This project follows a few simple principles:
 | Quartus Environment            | ✅ Complete |
 | First FPGA Program (Blink LED) | ✅ Complete |
 | GitHub Repository              | ✅ Complete |
+| GUI Concept Design             | ✅ Complete |
 | UART Communication             | ⏳ Planned  |
 | Fixed-Point Arithmetic         | ⏳ Planned  |
 | Quantum State Engine           | ⏳ Planned  |
