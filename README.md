@@ -23,6 +23,12 @@ In FPGA engineering, fabric refers to the programmable logic resources that form
 
 ---
 
+## Why "Quantum Fabric"?
+
+In FPGA engineering, fabric refers to the programmable logic resources that form the heart of the device. Quantum Fabric is built on that idea: using programmable hardware as the foundation for exploring quantum computation. More than a simulator, it's an engineering journey that weaves together digital design, hardware acceleration, software, and quantum computing into a single learning experience.
+
+---
+
 ## Why This Project?
 
 After more than 25 years designing and optimizing telecommunications networks, I decided to learn FPGA development by tackling a project that combines several of my interests:
